@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { StyledHorizontalBlinds } from "./styled/StyledHorizontalBlinds";
+import day from '../img/day.png';
+import night from '../img/night.png';
 
 export default function HorizontalBlinds({ changeMode }) {
   const [change, setChange] = useState(false);
@@ -14,502 +16,502 @@ export default function HorizontalBlinds({ changeMode }) {
     <StyledHorizontalBlinds onClick={switcher} change={change} dark={dark}>
       <figure id="blinds">
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif"
+          src={ day }
           alt
           class="first"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
         <img
-          src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png"
+          src={ night }
           alt
           class="second"
         />
