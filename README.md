@@ -1,4 +1,4 @@
-# Images that alternates with a transition reminiscent of Venetian blinds.
+# CSS Venetian curtain.
 
 This project uses React to create a component that switches between images with a transition created with CSS. That image also changes between Dark and Light mode because is the main reason to create it.
 
