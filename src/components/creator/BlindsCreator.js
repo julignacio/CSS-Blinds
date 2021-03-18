@@ -123,12 +123,12 @@ const fs = require('fs');
     fs.appendFileSync('../HorizontalBlinds.jsx', reactFirstLines, 'utf8');
 
     for(let i = 0; i < numberOfBlinds; i++) {
-      let line = `<img src={ day } alt="tile${i}" class="first" /> \n`;
+      let line = `<img src="https://imagenes.20minutos.es/files/article_amp/uploads/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif" alt="tile${i}" class="first" /> \n`;
       fs.appendFileSync('../HorizontalBlinds.jsx', line, 'utf8');
     }
 
     for(let i = 0; i < numberOfBlinds; i++) {
-      let line = `\t <img src={ night } alt="second${i}" class="second" /> \n`;
+      let line = `\t <img src="https://media.revistagq.com/photos/5ca5fb2aeccc6ac985d559a9/16:9/w_1920,c_limit/rickrolling_3543.png" alt="second${i}" class="second" /> \n`;
       fs.appendFileSync('../HorizontalBlinds.jsx', line, 'utf8');
     }
 
