@@ -6,7 +6,6 @@
     height: 591px;
     overflow: hidden;
 
-
     #blinds {
         position: relative;
         padding-bottom: 56.5%;
